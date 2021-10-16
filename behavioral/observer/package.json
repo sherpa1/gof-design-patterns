@@ -1,7 +1,7 @@
 {
   "name": "observer",
   "version": "1.0.0",
-  "description": "Gang Of Four Design Patterns with Typescript",
+  "description": "Les Design Patterns du GoF illustrés en TypeScript",
   "main": "dist/app.js",
   "scripts": {
     "start": "node dist/app.js",

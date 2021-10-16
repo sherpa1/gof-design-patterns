@@ -1,16 +1,18 @@
-# Observer
+# Design Patterns du GoF illustrées avec TypeScript
 
-GOF Design Patterns with TypeScript
+## Decorator
 
-## Spécifications techniques
+L’Observateur est un patron de conception comportemental qui permet de mettre en place un mécanisme de souscription pour envoyer des notifications à plusieurs objets, au sujet d’événements concernant les objets qu’ils observent.
+
+Source : https://refactoring.guru/fr/design-patterns
 
 ### Langage de programmation
 
-Programmation Orienté Objet avec TypeScript / JavaScript.
+Programmation Orienté Objet avec TypeScript / JavaScript (ES6+).
 
 ### Runtime JavaScript
 
-Node.js v.14.17.6 (octobre 2021).
+Node.js v.14.17.6
 
 ### Vérification de la version de Node.js installée
 
@@ -18,9 +20,9 @@ Node.js v.14.17.6 (octobre 2021).
 
 v14.17.6
 
-### Installation des dépendances NPM
+### Exécution des commandes NPM
 
-_Les commandes ci-dessous doivent toutes être exécutées depuis la racine du répertoire du projet_
+_Les commandes npm ci-dessous doivent toutes être exécutées depuis le répertoire où se situe le fichier package.json_
 
 ### Installation des dépendances NPM (avant la première utilisation)
 
@@ -61,14 +63,6 @@ ou
 ### Consultation du résultat produit par le logiciel
 
 Pendant son exécution, le logiciel génére des logs directement affichés dans le terminal où il est en cours d'exécution.
-
-#### Exemple de résultat attendu
-
-```
-
-```
-
----
 
 **Alexandre Leroux**
 
