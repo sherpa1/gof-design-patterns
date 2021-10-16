@@ -1,6 +1,11 @@
 # Les Design Patterns du GoF illustrés avec TypeScript
 
-Source : https://refactoring.guru/fr/design-patterns
+Les patrons de conception sont des solutions classiques à des problèmes récurrents de la conception de logiciels. Ce sont des plans ou des schémas que l’on peut personnaliser afin de résoudre un problème récurrent dans notre code.
+
+Les patrons de conception illustrés sont issus du livre
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+
+Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 
 ## Spécifications techniques
 

@@ -6,7 +6,10 @@ L’Adaptateur est un patron de conception structurel qui permet à des objets i
 
 L’adaptateur fait office d’emballeur entre les deux objets. Il récupère les appels à un objet et les met dans un format et une interface reconnaissables par le second objet.
 
-Source : https://refactoring.guru/fr/design-patterns
+Les patrons de conception illustrés sont issus du livre
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+
+Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 
 ## Spécifications techniques
 

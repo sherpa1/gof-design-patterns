@@ -4,7 +4,10 @@ Les Design Patterns du GoF illustrés en TypeScript
 
 État est un patron de conception comportemental qui permet de modifier le comportement d’un objet lorsque son état interne change. L’objet donne l’impression qu’il change de classe.
 
-Source : https://refactoring.guru/fr/design-patterns
+Les patrons de conception illustrés sont issus du livre
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+
+Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 
 ## Spécifications techniques
 

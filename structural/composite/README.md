@@ -4,7 +4,10 @@ Les Design Patterns du GoF illustrés en TypeScript
 
 Composite est un patron de conception structurel qui permet d’agencer les objets dans des arborescences afin de pouvoir traiter celles-ci comme des objets individuels.
 
-Source : https://refactoring.guru/fr/design-patterns
+Les patrons de conception illustrés sont issus du livre
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+
+Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 
 ## Spécifications techniques
 

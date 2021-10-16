@@ -4,7 +4,10 @@ Les Design Patterns du GoF illustrés en TypeScript
 
 Fabrique est un patron de conception de création qui définit une interface pour créer des objets dans une classe mère, mais délègue le choix des types d’objets à créer aux sous-classes.
 
-Source : https://refactoring.guru/fr/design-patterns
+Les patrons de conception illustrés sont issus du livre
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+
+Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 
 ## Spécifications techniques
 
