@@ -9,6 +9,8 @@ Les patrons de conception illustrés sont issus du livre
 
 Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 
+En savoir plus sur les Design Patterns du GoF : https://en.wikipedia.org/wiki/Design_Patterns
+
 ## Spécifications techniques
 
 ### Langage de programmation
