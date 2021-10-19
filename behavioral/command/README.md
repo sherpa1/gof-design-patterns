@@ -5,7 +5,7 @@ Les Design Patterns du GoF illustrés en TypeScript
 Commande est un patron de conception comportemental qui prend une action à effectuer et la transforme en un objet autonome qui contient tous les détails de cette action. Cette transformation permet de paramétrer des méthodes avec différentes actions, planifier leur exécution, les mettre dans une file d’attente ou d’annuler des opérations effectuées.
 
 Les patrons de conception illustrés sont issus du livre
-**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** écrit par Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
 
 Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 

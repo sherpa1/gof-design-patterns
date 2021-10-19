@@ -5,7 +5,7 @@
 L’Observateur est un patron de conception comportemental qui permet de mettre en place un mécanisme de souscription pour envoyer des notifications à plusieurs objets, au sujet d’événements concernant les objets qu’ils observent.
 
 Les patrons de conception illustrés sont issus du livre
-**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** écrit par Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
 
 Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 

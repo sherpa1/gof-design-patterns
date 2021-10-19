@@ -9,7 +9,7 @@ Le singleton possède à peu près les mêmes avantages et inconvénients que le
 Vous ne pourrez pas utiliser une classe qui dépend d’un singleton dans un autre contexte. Vous devrez également inclure complètement la classe Singleton dans votre code. En général, on se rend compte de cette limitation lorsque l’on crée des tests unitaires.
 
 Les patrons de conception illustrés sont issus du livre
-**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** écrit par Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
 
 Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 

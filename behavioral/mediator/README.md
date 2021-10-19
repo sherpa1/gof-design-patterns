@@ -5,7 +5,7 @@ Les Design Patterns du GoF illustrés en TypeScript
 Médiateur est un patron de conception comportemental qui diminue les dépendances chaotiques entre les objets. Il restreint les communications directes entre les objets et les force à collaborer uniquement via un objet médiateur.
 
 Les patrons de conception illustrés sont issus du livre
-**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** écrit par Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
 
 Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 

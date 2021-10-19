@@ -5,7 +5,7 @@ Les Design Patterns du GoF illustrés en TypeScript
 Fabrique abstraite est un patron de conception qui permet de créer des familles d’objets apparentés sans préciser leur classe concrète.
 
 Les patrons de conception illustrés sont issus du livre
-**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** dont les auteurs sont Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
+**"Design Patterns: Elements of Reusable Object-Oriented Software (1994)"** écrit par Erich Gamma, John Vlissides, Ralph Johnson et Richard Helm.
 
 Les textes de présentation des patrons de conception sont librement issus du site : https://refactoring.guru/fr/design-patterns
 
