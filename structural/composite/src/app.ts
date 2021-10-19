@@ -1,18 +1,30 @@
-import View from "./classes/View";
-import JSONRenderable from "./classes/JSONRenderable";
+import Component from "./classes/Component";
+import Composite from "./classes/Composite";
+import Element from "./classes/Element";
 
 function init() {
-  const hello_world: string = "Hello world";
+  const vehicles = new Composite("Vehicles");
 
-  const view = new View(hello_world);
+  const motor_vehicles = new Composite("Motor Vehicles");
+  vehicles.add(motor_vehicles);
 
-  const result = view.render();
-  console.log(result);
+  const cars = new Composite("Cars");
+  motor_vehicles.add(cars);
 
-  const JSONview = new JSONRenderable(view);
+  cars.add(new Element("Ferrari"));
 
-  const json_result = JSONview.render();
-  console.log(json_result);
+  const motorcycles = new Composite("Motorcycles");
+  motor_vehicles.add(motorcycles);
+
+  motorcycles.add(new Element("Harley Davidson"));
+
+  const human_powered = new Composite("Human Powered");
+  human_powered.add(new Element("Bicycle"));
+  human_powered.add(new Element("Skateboard"));
+
+  vehicles.add(human_powered);
+
+  console.log(vehicles.render());
 }
 
 init();

@@ -67,7 +67,7 @@ ou
 
 ### Consultation du résultat produit par le logiciel
 
-Pendant son exécution, le logiciel génére des logs directement affichés dans le terminal où il est en cours d'exécution.
+Pendant son exécution, le logiciel génère des logs directement affichés dans le terminal où il est en cours d'exécution.
 
 **Alexandre Leroux**
 

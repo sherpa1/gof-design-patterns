@@ -69,7 +69,24 @@ ou
 
 ### Consultation du résultat produit par le logiciel
 
-Pendant son exécution, le logiciel génére des logs directement affichés dans le terminal où il est en cours d'exécution.
+Pendant son exécution, le logiciel génère des logs directement affichés dans le terminal où il est en cours d'exécution.
+
+```
+<ul>Vehicles
+    <ul>Motor Vehicles
+        <ul>Cars
+            <li>Ferrari</li>
+        </ul>
+        <ul>Motorcycles
+            <li>Harley Davidson</li>
+        </ul>
+    </ul>
+    <ul>Human Powered
+        <li>Bicycle</li>
+        <li>Skateboard</li>
+    </ul>
+</ul>
+```
 
 **Alexandre Leroux**
 

@@ -1,18 +1,15 @@
-import View from "./classes/View";
-import JSONRenderable from "./classes/JSONRenderable";
+import Client from "./classes/Client";
+import API from "./classes/API";
+import Server from "./classes/Server";
 
 function init() {
-  const hello_world: string = "Hello world";
+  const client = new Client();
+  const server = new Server();
+  const api = new API(server); //API Class is a Facade
 
-  const view = new View(hello_world);
+  const result = client.fetch(api, "get");
 
-  const result = view.render();
   console.log(result);
-
-  const JSONview = new JSONRenderable(view);
-
-  const json_result = JSONview.render();
-  console.log(json_result);
 }
 
 init();
