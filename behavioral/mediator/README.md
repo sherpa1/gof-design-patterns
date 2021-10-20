@@ -1,6 +1,6 @@
 # Mediator
 
-Les Design Patterns du GoF illustrés en TypeScript
+Les Design Patterns du GoF avec TypeScript
 
 Médiateur est un patron de conception comportemental qui diminue les dépendances chaotiques entre les objets. Il restreint les communications directes entre les objets et les force à collaborer uniquement via un objet médiateur.
 

@@ -1,6 +1,6 @@
 # Decorator
 
-Les Design Patterns du GoF illustrés en TypeScript
+Les Design Patterns du GoF avec TypeScript
 
 Décorateur est un patron de conception structurel qui permet d’affecter dynamiquement de nouveaux comportements à des objets en les plaçant dans des emballeurs qui implémentent ces comportements.
 

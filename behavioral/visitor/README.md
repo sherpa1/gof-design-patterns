@@ -1,6 +1,6 @@
 # Visitor
 
-Les Design Patterns du GoF illustrés en TypeScript
+Les Design Patterns du GoF avec TypeScript
 
 Visiteur est un patron de conception comportemental qui vous permet de séparer les algorithmes et les objets sur lesquels ils opèrent.
 

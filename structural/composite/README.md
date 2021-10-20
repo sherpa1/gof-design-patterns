@@ -1,6 +1,6 @@
 # Composite
 
-Les Design Patterns du GoF illustrés en TypeScript
+Les Design Patterns du GoF avec TypeScript
 
 Composite est un patron de conception structurel qui permet d’agencer les objets dans des arborescences afin de pouvoir traiter celles-ci comme des objets individuels.
 

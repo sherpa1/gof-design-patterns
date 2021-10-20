@@ -1,6 +1,6 @@
 # Iterator
 
-Les Design Patterns du GoF illustrés en TypeScript
+Les Design Patterns du GoF avec TypeScript
 
 Itérateur est un patron de conception comportemental qui permet de parcourir les éléments d’une collection sans révéler sa représentation interne (liste, pile, arbre, etc.).
 
